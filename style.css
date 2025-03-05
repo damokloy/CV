@@ -41,6 +41,7 @@ body{
     border-bottom: 2px solid rgba(255,255,255,0.2);
 }
 .profile_text .imgbox{
+    margin-top: 10%;
     position: relative;
     width: 200px;
     height: 200px;
