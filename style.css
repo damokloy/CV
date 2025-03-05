@@ -11,3 +11,21 @@ body{
     align-items: center;
     min-height: 100vh;
 }
+.container{
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 1000px;
+    margin: 50px;
+    background-color: #fff;
+}
+.container .left{
+    position: relative;
+    background-color: #2E2E30;
+    padding: 40px;
+}
+.container .right{
+    position: relative;
+    background-color: #2E2E30;
+    padding: 40px;
+}
