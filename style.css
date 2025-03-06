@@ -121,9 +121,32 @@ body{
     font-size: 18px;
     font-weight: 300;
 }
-
 .container .right{
     position: relative;
     background-color: #F5F5F5;
     padding: 2rem;
+}
+.data{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: - center;
+    padding-bottom: 25px;
+    border-bottom: 2px solid rgba(255,255,255,0.2);
+}
+.education{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: - center;
+    padding-bottom: 25px;
+    border-bottom: 2px solid rgba(255,255,255,0.2);
+}
+.qual{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: - center;
+    padding-bottom: 25px;
+    border-bottom: 2px solid rgba(255,255,255,0.2);
 }
